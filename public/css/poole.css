@@ -27,8 +27,12 @@
  * Reverse layout
  * Themes
  */
+@import url(http://weloveiconfonts.com/api/?family=brandico);
 
-
+/* brandico */
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
+}
 /*
  * Body resets
  *
@@ -69,6 +73,8 @@ body {
 a {
   color: #268bd2;
   text-decoration: none;
+
+
 }
 a strong {
   color: inherit;
@@ -231,7 +237,6 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  border-radius: 5px;
 }
 
 /* Tables */
@@ -428,3 +433,19 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.social{
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  padding: .4em;
+  margin-right: 10px;
+  color: gray;
+}
+.social a{
+  color: gray;
+}
+.social:hover {
+  color: black;
+}
+
