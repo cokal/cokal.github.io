@@ -4,7 +4,7 @@
  <title>cokal</title>
  <link href="http://cokal.github.io/atom.xml" rel="self"/>
  <link href="http://cokal.github.io/"/>
- <updated>2014-08-07T21:36:34+02:00</updated>
+ <updated>2014-08-07T21:43:05+02:00</updated>
  <id>http://cokal.github.io</id>
  <author>
    <name>Colin Lasser</name>
@@ -17,7 +17,7 @@
    <link href="http://cokal.github.io/photography/2014/08/07/KRK/"/>
    <updated>2014-08-07T00:00:00+02:00</updated>
    <id>http://cokal.github.io/photography/2014/08/07/KRK</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/KRK.JPG&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://cokal.github.io/assets/KRK.jpg&quot; alt=&quot;KRK&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
