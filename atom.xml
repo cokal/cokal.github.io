@@ -4,7 +4,7 @@
  <title>cokal</title>
  <link href="http://cokal.github.io/atom.xml" rel="self"/>
  <link href="http://cokal.github.io/"/>
- <updated>2014-08-07T21:43:05+02:00</updated>
+ <updated>2014-08-08T11:50:09+02:00</updated>
  <id>http://cokal.github.io</id>
  <author>
    <name>Colin Lasser</name>
@@ -28,7 +28,9 @@
    <id>http://cokal.github.io/2014/08/07/Hello-World</id>
    <content type="html">&lt;h3&gt;Bye Wordpress, Hi Jekyll!&lt;/h3&gt;
 
-&lt;p&gt;I decided to dump my Wordpress blog and give Jekyll a try. Why? Wordpress became a huge, overloaded monster. Jekyll sounds pretty amazing and highly customizable. Exactly what I need. &lt;/p&gt;
+&lt;p&gt;I decided to dump my Wordpress blog and give &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; a try. Why? Wordpress became a huge, overloaded monster. Jekyll sounds pretty amazing and highly customizable. Exactly what I need. &lt;/p&gt;
+
+&lt;p&gt;http://jekyllrb.com/&lt;/p&gt;
 </content>
  </entry>
  
