@@ -3,21 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-09T16:41:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-09T16:41:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/willitbe/</loc>
+    <lastmod>2025-03-09T16:41:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/datenschutz/</loc>
     <lastmod>2025-03-09T09:48:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2025-03-09T09:48:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/impressum/</loc>
     <lastmod>2025-03-09T09:48:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/static/datenschutz/</loc>
-  </url><url>
-    <loc>http://localhost:1313/static/impressum/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/static/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

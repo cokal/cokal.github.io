@@ -9,9 +9,9 @@ theme = 'papermod'
     weight = 10
   [[menus.main]]
     name = 'Impressum'
-    pageRef = '/static/impressum'
+    pageRef = '/impressum'
     weight = 20
   [[menus.main]]
     name = 'Datenschutz'
-    pageRef = '/static/datenschutz'
+    pageRef = '/datenschutz'
     weight = 30

@@ -6,13 +6,21 @@
     <description>Recent content on cokal.org</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 09 Mar 2025 09:48:07 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 16:41:23 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Willitbe</title>
+      <link>http://localhost:1313/posts/willitbe/</link>
+      <pubDate>Sun, 09 Mar 2025 16:41:23 +0100</pubDate>
+      <guid>http://localhost:1313/posts/willitbe/</guid>
+      <description>&lt;h3 id=&#34;wird-es-wirklich-funktionieren-und-was-habe-ich-dait-vor&#34;&gt;Wird es wirklich funktionieren und was habe ich dait vor?&lt;/h3&gt;
+&lt;p&gt;Frei nach dem Motto &lt;a href=&#34;https://www.theminimalists.com/create-consume/&#34;&gt;&amp;ldquo;Create more consume less&amp;rdquo;&lt;/a&gt;, will ich versuchen eben dies umzustetzen, inkl wöchentlicher Linkposts und allem was mir so einfällt.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Datenschutz</title>
-      <link>http://localhost:1313/static/datenschutz/</link>
+      <link>http://localhost:1313/datenschutz/</link>
       <pubDate>Sun, 09 Mar 2025 09:48:07 +0100</pubDate>
-      <guid>http://localhost:1313/static/datenschutz/</guid>
+      <guid>http://localhost:1313/datenschutz/</guid>
       <description>&lt;h1 id=&#34;datenschutzerklärung&#34;&gt;Datenschutz­erklärung&lt;/h1&gt;
 &lt;h2 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h2&gt;
 &lt;h3 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h3&gt;
@@ -31,9 +39,9 @@
     </item>
     <item>
       <title>Impressum</title>
-      <link>http://localhost:1313/static/impressum/</link>
+      <link>http://localhost:1313/impressum/</link>
       <pubDate>Sun, 09 Mar 2025 09:48:07 +0100</pubDate>
-      <guid>http://localhost:1313/static/impressum/</guid>
+      <guid>http://localhost:1313/impressum/</guid>
       <description>&lt;p&gt;Colin Lasser&lt;br&gt;
 Brüder-Grimm-Str 9&lt;br&gt;
 36396 Steinau&lt;/p&gt;
