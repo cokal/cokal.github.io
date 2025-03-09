@@ -1,3 +1,8 @@
++++
+date = '2025-03-09T09:48:07+01:00'
+draft = false
+title = 'Datenschutz'
++++
 # Datenschutz­erklärung
 
 ## 1\. Datenschutz auf einen Blick
