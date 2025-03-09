@@ -1,0 +1,4 @@
+baseURL = 'https://cokal.org'
+languageCode = 'de-de'
+title = 'cokal.org'
+theme = 'nostyleplease'
