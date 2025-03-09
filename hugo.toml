@@ -1,4 +1,17 @@
 baseURL = 'https://cokal.org'
 languageCode = 'de-de'
 title = 'cokal.org'
-theme = 'nostyleplease'
+theme = 'papermod'
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Impressum'
+    pageRef = '/static/impressum'
+    weight = 20
+  [[menus.main]]
+    name = 'Datenschutz'
+    pageRef = '/static/datenschutz'
+    weight = 30
